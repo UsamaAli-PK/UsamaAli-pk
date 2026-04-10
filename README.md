@@ -1,76 +1,258 @@
-<!-- Header Section -->
+<div align="center">
 
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=USAMA%20ALI&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;Building+Systems+That+Replace+Teams;Multi-Agent+Architecture+Specialist" alt="Typing SVG" />
+</h3>
 
-<h1 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi 👋, I'm Usama Ali <a href="https://dly.to/ipPjMTS4xCv">Dev</a></h1>
-<h3 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #6c757d;"> I am a young computer science student in Pakistan 🇵🇰 with a passion for technology's frontiers;<br>
-<ul style="list-style-type: none; padding-left: 0;">
-<li style="margin-bottom: 5px;">&bull; Programming</li>
-<li style="margin-bottom: 5px;">&bull; AI</li>
-<li style="margin-bottom: 5px;">&bull; Cyber Security</li>
-<li style="margin-bottom: 5px;">&bull; Ethical hacking</li>
-</ul>
-<p style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #6c757d;">Constantly learning and building to push the boundaries of what's possible.</p></h3>
-
-
-
-
-
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-<!-- Languages and Tools Section -->
-<div style="background-color: #f7f7f7; padding: 20px; border-radius: 10px;">
-  <h3 style="font-size: 24px; font-family: Verdana; color: #333333;"<b>Languages and Tools:</b></h3>
-  <ul style="list-style-type: none; padding-left: 0; margin-top: 10px;">
-    <li style="font-family: Verdana; font-size: 18px; color: #007bff; margin-bottom: 10px;">I work on <strong>Java</strong>, <strong>Cpp</strong>, <strong>Python</strong>, and also have some knowledge of <strong>HTML</strong>,<strong>CSS</strong>.</li>
-    <li style="font-family: Verdana; font-size: 18px; color: #007bff; margin-bottom: 10px;">I’m looking to collaborate on <strong>Java-Related Projects</strong>.</li>
-  </ul>
-</div>
-
-
-#### Programming Language Stack
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" title="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> 
-     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" title="CSS" width="40" height="40"/>
-
-
-#### OS Stack
-<p align="left"> <img src="https://upload.vectorlogo.zone/logos/kali/images/324c35f9-62e7-40d5-8d50-3d64fa06ad0e.svg" alt="Kali Lnux" title="Kali" width="80" height="80"/> <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/> <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" alt="Windows" title="Windows" width="40" height="40"/> </p>
-
-#### Database Stack
-<p align="left"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  </p>
-
-#### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/></p>
-
-#### Editor  ♥
-<p align="left"> 
-
-  <img src="https://www.svgrepo.com/show/235135/notepad.svg" alt="Notepad" title="Notepad" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
-  <img src="https://styles.redditmedia.com/t5_32raz/styles/communityIcon_yria07xbhfn61.png" alt="Dev-C++" title="Dev-C++" width="40" height="40"/> </p>
-
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/Pakistan%20🇵🇰-Remote%20First-667eea?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Shipping%20Systems-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Automation-764ba2?style=for-the-badge" />
 </p>
 
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me **[usamaaliarofficial@gmail.com
-](mailto:usamaaliarofficial@gmail.com)**
+</div>
 
+---
 
-⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5 %
+<div align="center">
 
+### ⚡ CURRENTLY BUILDING
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UsamaAli-AR&show_icons=true&locale=en&layout=compact" alt="UsamaAli-AR" /></p>
+**RAG Memory Module** • **FastAPI Production Endpoints** • **Token Optimization Tooling**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaAli-AR&show_icons=true&locale=en" alt="UsamaAli-AR" /></p>
+<img src="https://img.shields.io/github/last-commit/UsamaAli-PK/Social-Media-Agency-OS?style=flat-square&color=667eea" /> <img src="https://img.shields.io/badge/Commits-This%20Month-764ba2?style=flat-square" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaAli-AR&" alt="UsamaAli-AR" /></p>
+</div>
 
-<h3 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Join our Whatsapp Community for daily Updates 👋<a href=" https://whatsapp.com/channel/0029VaLTO6AKrWR0j7YwdT2R ">Future Programmers</a></h3>
+---
+
+## 🤖 Featured Systems
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Social Media Agency OS
+**Multi-agent content engine**
+
+🎯 80 posts/client/month  
+🧠 5 agents, 20+ sub-agents  
+⚙️ Claude + Python + Make.com  
+
+**110+ skill files** • **WAT framework**
+
+[**→ View System**](https://github.com/UsamaAli-PK/Social-Media-Agency-OS)
+
+</td>
+<td width="33%" valign="top">
+
+### n8n Automation Pipelines
+**Research to publish, automated**
+
+📊 Workflow orchestration  
+🔄 OpenAI/Groq integration  
+📤 Zero-touch publishing  
+
+**Live production** • **Google Sheets**
+
+[**→ View Workflows**](#)
+
+</td>
+<td width="33%" valign="top">
+
+### Client Production Systems
+**Web development projects**
+
+💼 Live client deployments  
+⚡ Claude Code + Cursor  
+🌐 Full-stack implementations  
+
+**WordPress** • **Custom builds**
+
+[**→ View Examples**](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/Claude%20API-667eea?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20AI-764ba2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-667eea?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-764ba2?style=for-the-badge&logo=integromat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-667eea?style=for-the-badge&logo=lightning&logoColor=white" />
+</p>
+
+### Development
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-667eea?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-764ba2?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
+
+### Data & Integration
+<p>
+  <img src="https://img.shields.io/badge/ChromaDB-667eea?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion%20API-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apify-667eea?style=for-the-badge&logo=apify&logoColor=white" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+</div>
+
+---
+
+## 🎯 What I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### 🤖 Multi-Agent Systems
+Claude API orchestration  
+5-agent content pipelines  
+Prompt engineering at scale  
+Production LLM integrations
+
+</td>
+<td width="33%" align="center">
+
+#### ⚡ Workflow Automation
+n8n + Make.com builds  
+Zero-touch publishing  
+Data pipeline architecture  
+API design + deployment
+
+</td>
+<td width="33%" align="center">
+
+#### 🌐 Web Development
+WordPress development  
+Client website builds  
+Full-stack implementations  
+Custom integrations
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UsamaAli-PK&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaAli-PK&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaAli-PK&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" width="48%" />
+
+</div>
+
+---
+
+## 🚀 Experience
+
+<table>
+<tr><td>
+
+**AI Automation Engineering**  
+Built multi-agent systems, workflow automation, and production AI pipelines. Specialized in Claude API orchestration, n8n workflows, and scalable content generation architecture.
+
+**Key Projects:**
+- Multi-agent system generating 80 posts/month per client
+- n8n automation pipelines with OpenAI/Groq integration  
+- 110+ prompt engineering skill files
+- WAT framework (Workflows · Agents · Tools) architecture
+
+**Web Development**  
+WordPress development and full-stack client projects. Built production websites using Claude Code, Cursor, and modern web technologies.
+
+**Client Work:**
+- WordPress sites for agencies and businesses
+- Custom website builds with AI-assisted development
+- Full deployment and maintenance
+
+</td></tr>
+</table>
+
+---
+
+## 🎨 Capabilities
+
+```python
+class AIAutomationEngineer:
+    def __init__(self):
+        self.specialties = {
+            "multi_agent_systems": ["Claude API", "Gemini AI", "Agent orchestration"],
+            "automation": ["n8n", "Make.com", "Workflow design"],
+            "ai_content": ["Prompt engineering", "80 posts/month", "Platform optimization"],
+            "web_dev": ["WordPress", "Client builds", "Full-stack"],
+            "data": ["ChromaDB", "Notion API", "Pipeline architecture"]
+        }
+        
+    def build_system(self, requirements):
+        return "Production-ready AI automation that ships"
+    
+    def optimize_workflow(self, process):
+        return "Zero-touch automation with agent orchestration"
+```
+
+---
+
+## 📬 Open to Collaboration
+
+<div align="center">
+
+Building AI automation for agencies, SaaS platforms, or content operations?
+
+<p>
+  <a href="mailto:usamaaliarofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/usamaalipk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/UsamaAli-PK">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+**Available for contract work** • **Remote-first** • **Based in Pakistan 🇵🇰**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+
+**Building systems that replace teams, one agent at a time.**
+
+![](https://komarev.com/ghpvc/?username=UsamaAli-PK&color=667eea&style=flat-square)
+
+</div>
